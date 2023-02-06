@@ -1,4 +1,11 @@
 .DS_Store
 
+# PUC folder
 PUC/Ejemplos/*
 PUC/Tareas/*
+
+# ECN folder
+ECN/CM (slides 2023)/*.pdf
+ECN/Programmes dexemple vus en cours-20230202/*
+ECN/TPs
+ECN/*.pdf
