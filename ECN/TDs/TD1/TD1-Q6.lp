@@ -20,3 +20,4 @@ client(Y) :- cout(_,Y,_).
 % Minimiser le cout d’affectation
 #minimize {Z, T, C, sol(T, C):cout(T, C, Z)}.
 #show sol/2.
+% minimize prende la première valeur 
