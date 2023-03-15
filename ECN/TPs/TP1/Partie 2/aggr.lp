@@ -13,4 +13,20 @@ cours(6,2,2). cours(6,3,2).
 cours(7,2,4). cours(7,3,4). cours(7,4,4).
 cours(8,3,5). cours(8,4,5).
 
+% Question 1 
+
+% Question 2
+
+% Question 3
+
+% Question 4
+
+% Question 5
+
+% Question 6
+
+% Question 7
+
+% Question 8
+
 #show cours/3.
