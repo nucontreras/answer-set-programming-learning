@@ -1,0 +1,25 @@
+clingo version 4.5.4
+Reading from magic.lp
+Solving...
+Answer: 1
+magic(1,1,2) magic(1,2,7) magic(1,3,6) magic(2,1,9) magic(2,2,5) magic(2,3,1) magic(3,1,4) magic(3,2,3) magic(3,3,8) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 2
+magic(1,1,4) magic(1,2,3) magic(1,3,8) magic(2,1,9) magic(2,2,5) magic(2,3,1) magic(3,1,2) magic(3,2,7) magic(3,3,6) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 3
+magic(1,1,6) magic(1,2,7) magic(1,3,2) magic(2,1,1) magic(2,2,5) magic(2,3,9) magic(3,1,8) magic(3,2,3) magic(3,3,4) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 4
+magic(1,1,4) magic(1,2,9) magic(1,3,2) magic(2,1,3) magic(2,2,5) magic(2,3,7) magic(3,1,8) magic(3,2,1) magic(3,3,6) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 5
+magic(1,1,6) magic(1,2,1) magic(1,3,8) magic(2,1,7) magic(2,2,5) magic(2,3,3) magic(3,1,2) magic(3,2,9) magic(3,3,4) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 6
+magic(1,1,8) magic(1,2,3) magic(1,3,4) magic(2,1,1) magic(2,2,5) magic(2,3,9) magic(3,1,6) magic(3,2,7) magic(3,3,2) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 7
+magic(1,1,8) magic(1,2,1) magic(1,3,6) magic(2,1,3) magic(2,2,5) magic(2,3,7) magic(3,1,4) magic(3,2,9) magic(3,3,2) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+Answer: 8
+magic(1,1,2) magic(1,2,9) magic(1,3,4) magic(2,1,7) magic(2,2,5) magic(2,3,3) magic(3,1,6) magic(3,2,1) magic(3,3,8) row_sum(1,15) row_sum(2,15) row_sum(3,15) col_sum(1,15) col_sum(2,15) col_sum(3,15) diag1(15) diag2(15)
+SATISFIABLE
+
+Models       : 8     
+Calls        : 1
+Time         : 0.222s (Solving: 0.20s 1st Model: 0.05s Unsat: 0.01s)
+CPU Time     : 0.220s

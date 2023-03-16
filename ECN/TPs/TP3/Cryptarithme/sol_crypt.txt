@@ -1,0 +1,11 @@
+clingo version 4.5.4
+Reading from cryp.lp
+Solving...
+Answer: 1
+letter(s) letter(e) letter(n) letter(d) letter(m) letter(o) letter(r) letter(y) values(0) values(1) values(2) values(3) values(4) values(5) values(6) values(7) values(8) values(9) x(o,0) x(m,1) x(y,2) x(e,5) x(n,6) x(d,7) x(r,8) x(s,9) smm
+SATISFIABLE
+
+Models       : 1     
+Calls        : 1
+Time         : 120.112s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 119.920s

@@ -1,0 +1,4 @@
+n = 2 -> 15 answer sets
+n = 3 -> 6 answer sets
+n = 4 -> 1 answer set
+n = 5 -> unsat
