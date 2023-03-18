@@ -1,0 +1,121 @@
+clingo version 4.5.4
+Reading from instance_rapporteurs.lp ...
+Solving...
+Answer: 1
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 2
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 3
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 4
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 5
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 6
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 7
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 8
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 9
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 10
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 11
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 12
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r6) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 13
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r6) assigned(p17,r8) assigned(p18,r9)
+Answer: 14
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r6) assigned(p17,r8) assigned(p18,r9)
+Answer: 15
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r6) assigned(p17,r8) assigned(p18,r9)
+Answer: 16
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r6) assigned(p17,r8) assigned(p18,r9)
+Answer: 17
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r6) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 18
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r6) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 19
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r6) assigned(p18,r9)
+Answer: 20
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r6) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 21
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r6) assigned(p18,r9)
+Answer: 22
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r6) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 23
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r6) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 24
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r6) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 25
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r6) assigned(p18,r9)
+Answer: 26
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r6) assigned(p18,r9)
+Answer: 27
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r6) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 28
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r6) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 29
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r6) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 30
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r6) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 31
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r6) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 32
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r6) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 33
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r6)
+Answer: 34
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r6)
+Answer: 35
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r6)
+Answer: 36
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r6)
+Answer: 37
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r6)
+Answer: 38
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r6)
+Answer: 39
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r6)
+Answer: 40
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r6)
+Answer: 41
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r6) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 42
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r6) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 43
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r6) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 44
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r3) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r6) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 45
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 46
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 47
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 48
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 49
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 50
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r6) assigned(p13,r4) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 51
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 52
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r3) assigned(p4,r7) assigned(p5,r9) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 53
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 54
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r5) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r9) assigned(p15,r5) assigned(p16,r8) assigned(p17,r8) assigned(p18,r9)
+Answer: 55
+assigned(p1,r2) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r1) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+Answer: 56
+assigned(p1,r1) assigned(p2,r2) assigned(p3,r8) assigned(p4,r7) assigned(p5,r3) assigned(p6,r2) assigned(p7,r3) assigned(p8,r1) assigned(p9,r6) assigned(p10,r4) assigned(p11,r7) assigned(p12,r4) assigned(p13,r6) assigned(p14,r5) assigned(p15,r5) assigned(p16,r8) assigned(p17,r9) assigned(p18,r9)
+SATISFIABLE
+
+Models       : 56    
+Calls        : 1
+Time         : 0.012s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.010s

@@ -1,0 +1,17 @@
+clingo version 4.5.4
+Reading from graph.lp ...
+Solving...
+Answer: 1
+in(1,4) in(2,5) in(3,1) in(4,2) in(5,6) in(6,3)
+Optimization: 12
+Answer: 2
+in(1,2) in(2,5) in(3,4) in(4,1) in(5,6) in(6,3)
+Optimization: 11
+OPTIMUM FOUND
+
+Models       : 2     
+  Optimum    : yes
+Optimization : 11
+Calls        : 1
+Time         : 0.004s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s

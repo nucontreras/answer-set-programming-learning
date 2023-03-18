@@ -1,0 +1,11 @@
+clasp version 3.0.5
+Reading from stdin
+Solving...
+Answer: 1
+labelV(camp,up) labelV(a,down) labelV(lacI,up) labelV(lacZ,down) labelV(lacY,down) labelV(g,down) labelV(li,down) labelV(le,down) receive(lacZ,up) receive(lacY,up) receive(lacI,up) receive(camp,up) receive(li,up) receive(le,up) receive(lacZ,down) receive(lacY,down) receive(a,down) receive(g,down) receive(li,down)
+SATISFIABLE
+
+Models       : 1     
+Calls        : 1
+Time         : 0.000s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.000s

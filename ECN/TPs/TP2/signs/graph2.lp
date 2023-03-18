@@ -1,0 +1,15 @@
+signe(down;up).
+vertex(le;li;lacY;lacI;lacZ;g;a;camp).
+observedE(le,li,up).
+observedE(li,g,up).
+observedE(lacY,le,down).
+observedE(lacY,li,up).
+observedE(lacZ,li,down).
+observedE(lacZ,g,up).
+observedE(lacZ,a,up).
+observedE(g,camp,down).
+observedE(lacI,lacY,down).
+observedE(lacI,lacZ,down).
+observedE(a,lacI,down).
+observedE(camp,lacY,up).
+observedE(camp,lacZ,up).
