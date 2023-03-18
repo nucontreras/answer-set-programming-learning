@@ -1,7 +1,5 @@
 .DS_Store
 
-# PUC folder
-
 # ECN folder
 ECN/CM (slides 2023)/*.pdf
 ECN/TPs/TP2/*

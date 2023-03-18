@@ -40,17 +40,14 @@ cours(8,3,5). cours(8,4,5).
 
 % Question 5
 % Prédicat heures(C,T) qui permettra d’obtenir les cours C associés aux heures T.
-heures(C,T) :- cours(C,_,T).
+heures(C,H) :- cours(C,_,H).
 
 % #show heures/2.
 
 % Question 6
 % La somme d’heures doit être comprise entre 18 et 20.
-
-:- not 18 <= #sum {T,C : heures(C,T), inscrire(C)} <= 20.
-
-% heures_max(20).
-% :- not M-2 <= #sum {H,C : inscrire(C), heures(C,H)} <= M, heures_max(M).
+heures_max(20).
+:- not M-2 <= #sum {H,C : inscrire(C), heures(C,H)} <= M, heures_max(M).
 
 #show inscrire/1.
 
@@ -59,5 +56,6 @@ heures(C,T) :- cours(C,_,T).
 % semaine et inférieur (stricte) à 6 heures par semaine.
 
 % * Each instance of 'cours' with the same ID have the same numbers of hours.
-:- #min {T,C : inscrire(C), heures(C,T)} <= 2.
-:- 6 <= #max {T,C : inscrire(C), heures(C,T)}.
+:- #min {H,C : inscrire(C), heures(C,H)} <= 2.
+:- 6 <= #max {H,C : inscrire(C), heures(C,H)}.
+
