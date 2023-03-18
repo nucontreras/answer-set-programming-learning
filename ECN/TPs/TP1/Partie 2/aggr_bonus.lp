@@ -19,13 +19,13 @@ cours(8,3,5). cours(8,4,5).
 % Question 2
 % Le nombre de domaines éligibles, associées à tous les cours inscrits, doit être supérieur (stricte) à 10.
 
-:- #count {C,D : inscrire(C), cours(C,D,_) } <= 10.  
+:- not 10 < #count {C,D : inscrire(C), cours(C,D,_) }.  
 
 % #show inscrire/1.
 
 % Question 3
 % parmi les n cours éligibles du domaine 2, il peut s’inscrire à tous ou à n - 1
-:- 2 <= #count {C,0 : not inscrire(C), cours(C,2,_)}.  % I add a 0 in order to count the C's with the same value. 
+:- not #count {C,0 : not inscrire(C), cours(C,2,_)} < 2.  % I add a 0 in order to count the C's with the same value. 
 % I count all courses that they aren't of domain 2. This quantity couldn't be greater than or equal to 2. 
 % i.e, the quantity of courses that don't have domain 2 must be 1 or 0.
 
@@ -33,7 +33,7 @@ cours(8,3,5). cours(8,4,5).
 
 % Question 4
 % Le nombre total des cours qui appartiennent aux domaines 3 et 4 doit être inférieur stricte à 6.
-:- 6 <= #count {C,0 : inscrire(C), cours(C,3,_); C,1 : inscrire(C), cours(C,4,_)}.
+:- not 6 > #count {C,0 : inscrire(C), cours(C,3,_); C,1 : inscrire(C), cours(C,4,_)}.
 % ; = et
 
 % #show inscrire/1.
@@ -49,13 +49,12 @@ heures(C,H) :- cours(C,_,H).
 heures_max(20).
 :- not M-2 <= #sum {H,C : inscrire(C), heures(C,H)} <= M, heures_max(M).
 
-#show inscrire/1.
-
 % Question 7
 % Chaque cours inscrit doit représenter un investisement supérieur (stricte) à 2 heures par
 % semaine et inférieur (stricte) à 6 heures par semaine.
 
 % * Each instance of 'cours' with the same ID have the same numbers of hours.
-:- #min {H,C : inscrire(C), heures(C,H)} <= 2.
-:- 6 <= #max {H,C : inscrire(C), heures(C,H)}.
+:- not 2 < #min {T,C : inscrire(C), heures(C,T)}.
+:- not #max {T,C : inscrire(C), heures(C,T)} < 6.
 
+#show inscrire/1.
