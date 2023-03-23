@@ -1,4 +1,4 @@
-% Run: clingo sudoku.lp instance_sudoku.lp 0
+% Run: clingo killer_sudoku.lp instance_sudoku.lp instance_sudoku_killer_1.lp 0
 
 #const n = 9.
 
@@ -24,6 +24,13 @@ same_quadrant(X, Y, X1, Y1) :- X > 3 * Z, X <= 3 * (Z + 1), X1 > 3 * Z, X1 <= 3 
 
 :- same_quadrant(X, Y, X1, Y1), X != X1, Y != Y1, state(X, Y, Z), state(X1, Y1, Z).
 
-:- cell(X,Y,Z), not state(X,Y,Z).
+zone_quant(I,Q) :- Q = #count{1,X,Y : zone(X, Y, I)}, zone_sum(I,_).  % number of instances of each zone
+{field(X, Y, Z, I) : state(X, Y, Z)} = Q :- zone_quant(I, Q).
 
+:- zone(X,Y,I), not field(X, Y, _, I).
+
+:- #sum {Z,X,Y :field(X,Y,Z,I)} != S, zone_sum(I,S).
+
+% #show zone_quant/2.
+% #show field/4.
 #show state/3.
