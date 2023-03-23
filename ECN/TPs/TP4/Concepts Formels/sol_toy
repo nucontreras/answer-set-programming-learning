@@ -1,0 +1,22 @@
+gringo instance_toy.lp concform.lp --const k=3 | clasp
+
+clasp version 3.2.0
+Reading from stdin
+Solving...
+Answer: 1
+selprot(5) selprot(3) selprot(2)
+Optimization: 20
+Answer: 2
+selprot(5) selprot(4) selprot(3) affinite(3,5)
+Optimization: 15
+Answer: 3
+selprot(4) selprot(3) selprot(1) affinite(3,5) affinite(2,4) affinite(1,5)
+Optimization: 5
+OPTIMUM FOUND
+
+Models       : 3
+  Optimum    : yes
+Optimization : 5
+Calls        : 1
+Time         : 0.020s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.020s
