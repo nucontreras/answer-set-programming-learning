@@ -18,7 +18,6 @@ edge(g,h). edge(h,e).
 % Create a set with n elements of G
 n {in(X) : node(X)} n. 
 
-% Exercice 1.1 
 % constraint to take in() with no edges in G
 :- in (X), in(Y), edge(X, Y).
 #show in/1.
