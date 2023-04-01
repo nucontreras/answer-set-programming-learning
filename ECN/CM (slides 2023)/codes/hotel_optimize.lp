@@ -6,11 +6,11 @@ main_street(4).
 noisy :- hotel(X), main_street(X).
 
 #minimize{ 1@3, noisy }.
-% #minimize{ Y/Z@2,X : hotel(X), cost(X,Y), star(X,Z) }.
-% #maximize{ Y@1,X : hotel(X), star(X,Y) }.
+#minimize{ Y/Z@2,X : hotel(X), cost(X,Y), star(X,Z) }.
+#maximize{ Y@1,X : hotel(X), star(X,Y) }.
 
 #show hotel/1.
-#show main_street/1.
-#show noisy/0.
+% #show main_street/1.
+#show noisy.
 
 % je n'ai pas bien compris le @ dans le minimize
